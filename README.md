@@ -1,3 +1,5 @@
+# ReadME - Mobile EPUB Reading Application
+
 ## Description
 ReadME is a mobile application developed as part of the second-year project at ETML. The aim of this application is to popularize reading by providing a user-friendly platform for reading books in EPUB format. The project is carried out for the client MMN/JMY, in collaboration with ETML apprentices.
 
