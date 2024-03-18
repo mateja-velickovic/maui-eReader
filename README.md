@@ -1,3 +1,4 @@
+![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 # ReadME - Mobile EPUB Reading Application
 
 ## Description
