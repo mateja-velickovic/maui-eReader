@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("p_app-matvelickovic-readme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a3aa2e3693a63fe818099dfa3beaa073e64c8bd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("p_app-matvelickovic-readme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("p_app-matvelickovic-readme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

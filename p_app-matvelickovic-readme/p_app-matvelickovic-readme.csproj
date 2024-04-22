@@ -21,7 +21,7 @@
 		<Nullable>enable</Nullable>
 
 		<!-- Display name -->
-		<ApplicationTitle>p_app-matvelickovic-readme</ApplicationTitle>
+		<ApplicationTitle>ReadME</ApplicationTitle>
 
 		<!-- App Identifier -->
 		<ApplicationId>com.companyname.p_appmatvelickovicreadme</ApplicationId>

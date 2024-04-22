@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IuNbDbCOdcv9pXTsiiQB89yR7od/SRpJoyjPBo5FWe9mb1elvyX0YHzLZEE8yGJ297ajFo9YH1Sq6gHeOBy4GA==",
+  "dgSpecHash": "LtSF9/f0sIhrRz6baFDAxPdnOB10VaeGlE/QnUcgq7S12gF/3S3W1tJSX6TErir9rU9ia41GZAOon5vvKoGtkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pe04uhp\\Desktop\\p_app-matvelickovic-readme\\p_app-matvelickovic-readme.csproj",
+  "projectFilePath": "D:\\ETML\\CFC\\23-24_secondYear\\Projects\\P_APP\\xamarin-eReader\\p_app-matvelickovic-readme\\p_app-matvelickovic-readme.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pe04uhp\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\pe04uhp\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

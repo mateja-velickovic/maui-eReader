@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pe04uhp\\Desktop\\p_app-matvelickovic-readme\\p_app-matvelickovic-readme.csproj": {}
+    "D:\\ETML\\CFC\\23-24_secondYear\\Projects\\P_APP\\xamarin-eReader\\p_app-matvelickovic-readme\\p_app-matvelickovic-readme.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pe04uhp\\Desktop\\p_app-matvelickovic-readme\\p_app-matvelickovic-readme.csproj": {
+    "D:\\ETML\\CFC\\23-24_secondYear\\Projects\\P_APP\\xamarin-eReader\\p_app-matvelickovic-readme\\p_app-matvelickovic-readme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pe04uhp\\Desktop\\p_app-matvelickovic-readme\\p_app-matvelickovic-readme.csproj",
+        "projectUniqueName": "D:\\ETML\\CFC\\23-24_secondYear\\Projects\\P_APP\\xamarin-eReader\\p_app-matvelickovic-readme\\p_app-matvelickovic-readme.csproj",
         "projectName": "p_app-matvelickovic-readme",
-        "projectPath": "C:\\Users\\pe04uhp\\Desktop\\p_app-matvelickovic-readme\\p_app-matvelickovic-readme.csproj",
+        "projectPath": "D:\\ETML\\CFC\\23-24_secondYear\\Projects\\P_APP\\xamarin-eReader\\p_app-matvelickovic-readme\\p_app-matvelickovic-readme.csproj",
         "packagesPath": "C:\\Users\\pe04uhp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pe04uhp\\Desktop\\p_app-matvelickovic-readme\\obj\\",
+        "outputPath": "D:\\ETML\\CFC\\23-24_secondYear\\Projects\\P_APP\\xamarin-eReader\\p_app-matvelickovic-readme\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
