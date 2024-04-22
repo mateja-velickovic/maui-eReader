@@ -13,6 +13,7 @@ namespace p_app_matvelickovic_readme
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                    fonts.AddFont("Poppins-Medium.ttf", "Poppins");
                 });
 
 #if DEBUG

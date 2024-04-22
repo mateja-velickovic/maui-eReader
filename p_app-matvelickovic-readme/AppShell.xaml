@@ -8,7 +8,6 @@
     Title="p_app_matvelickovic_readme">
 
     <ShellContent
-        Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
