@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="matvelickov.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout>
+
+            <Label
+                Text="Read ME"
+                Margin="0,30,0,0"
+                FontFamily="Poppins"
+                FontSize="50"/>
+
+            <Label
+                Text="Your book reader"
+                FontSize="20"
+                Margin="0,-25,0,0"
+                FontAttributes="Italic"/>
+
+            <CollectionView ItemsSource="{Binding Books}"
+                            VerticalOptions="FillAndExpand">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout Padding="10">
+                            <Label Text="{Binding Title}"
+                                   FontSize="20"
+                                   FontAttributes="Bold" />
+                            <Label Text="{Binding Abstract}"
+                                   FontSize="14"
+                                   TextColor="Gray" />
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <SearchBar Placeholder="Faites votre recherche..."
+                       Margin="-25,20,0,0"
+                       WidthRequest="370"
+                       PlaceholderColor="White"/>
+
+            <Grid RowSpacing="5" ColumnSpacing="5" Margin="30, 50, 30, 0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="200" />
+                    <RowDefinition Height="200" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <ImageButton Clicked="ImageClicked" Grid.Row="0" Grid.Column="0" Source="book_1.png" Aspect="AspectFill" />
+                <ImageButton Clicked="ImageClicked" Grid.Row="0" Grid.Column="1" Source="book_2.png" Aspect="AspectFill" />
+                <ImageButton Clicked="ImageClicked" Grid.Row="0" Grid.Column="2" Source="book_3.png" Aspect="AspectFill" />
+                <ImageButton Clicked="ImageClicked" Grid.Row="1" Grid.Column="0" Source="book_4.png" Aspect="AspectFill" />
+                <ImageButton Clicked="ImageClicked" Grid.Row="1" Grid.Column="1" Source="book_5.png" Aspect="AspectFill" />
+                <ImageButton Clicked="ImageClicked" Grid.Row="1" Grid.Column="2" Source="book_6.png" Aspect="AspectFill" />
+                <!--Opacity="0.5"-->
+            </Grid>
+
+
+            <Label
+                Text="&lt;        1    2    3        >"
+                FontSize="20"
+                Margin="0,100,0,0"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+    
+</ContentPage>
